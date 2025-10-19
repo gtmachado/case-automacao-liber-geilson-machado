@@ -1,0 +1,5 @@
+Assunto: Candidatura - Teste de Nome Inválido
+---CORPO---
+Nome: Candidato C/Barra
+Vaga: Dev
+Telefone: (11) 12345

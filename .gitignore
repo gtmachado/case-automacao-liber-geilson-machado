@@ -1,0 +1,19 @@
+# Ambiente Virtual
+/venv/
+
+# Pastas de Saída
+/arquivos_processados/
+/dist/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Configuração do VSCode
+.vscode/

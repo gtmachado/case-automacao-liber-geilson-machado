@@ -26,13 +26,20 @@ cd case-automacao-liber-geilson-machado
 ### 2. Criar e Ativar o Ambiente Virtual (venv)
 
 ```bash
-# No Windows (Git Bash ou CMD)
+# Crie o ambiente virtual (funciona em todos os terminais)
 python -m venv venv
+```
+```bash
+# No Windows (CMD ou PowerShell)
 .\venv\Scripts\activate
 ```
 ```bash
+# No Windows (Git Bash)
+source venv/Scripts/activate
+```
+```bash
 # No macOS/Linux
-python3 -m venv venv
+python3 -m venv venv  # (Use python3 se 'python' não funcionar)
 source venv/bin/activate
 ```
 
